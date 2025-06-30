@@ -1,4 +1,4 @@
-![QA + Data Projects by Nicole](https://raw.githubusercontent.com/shontelleQA/shontelleQA/main/git%20cover.png)
+![QA + Data Projects by Nicole](https://raw.githubusercontent.com/shontelleQA/shontelleQA/main/gitcover.png)
 
 
 # Hey, I’m Nicole 👋  
