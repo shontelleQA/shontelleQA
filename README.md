@@ -28,9 +28,10 @@ testing what users see, what APIs do, and what databases keep.
 
 | Layer | Repository | Focus | Tools |
 |-------|-------------|--------|-------|
-| **🧠 UI + Functional Automation** | [qa-systems-frontend-automation](https://github.com/shontelleQA/qa-systems-frontend-automation) | E-commerce UI automation framework validating functional workflows and checkout logic | Selenium · PyTest · Page Object Model |
-| **🔗 API + Database Validation** | [qa-systems-validation-suite](https://github.com/shontelleQA/qa-systems-validation-suite) | Integrated test suite combining manual, API, and SQL validation — bridging UI events and backend data | Postman · PyTest · SQL · TestRail |
-| **🧮 Data Pipeline + ETL QA** | [qa-data-validation-framework](https://github.com/shontelleQA/qa-data-validation-framework) *(in progress)* | Synthetic healthcare pipeline with ETL verification, masking, and CI/CD | FastAPI · SQLite · Pandas · GitHub Actions |
+| **🧠 UI + Functional Automation** | [QA Automation (Selenium + Python)](https://github.com/shontelleQA/qa-automation-python-selenium-ecommerce) | E-commerce UI automation framework validating functional workflows and checkout logic | Selenium · PyTest · Page Object Model |
+| **🔗 API + Database Validation** | [QA End-to-End Systems Suite](https://github.com/shontelleQA/qa-end-to-end) | Integrated test suite combining manual, API, and SQL validation — bridging UI events and backend data | Postman · PyTest · SQL · TestRail |
+| **🧮 Data Pipeline + ETL QA** | [Healthcare Data QA](https://github.com/shontelleQA/healthcare-data-qa) *(in progress)* | Synthetic healthcare pipeline with ETL verification, masking, and CI/CD | FastAPI · SQLite · Pandas · GitHub Actions |
+
 
 > Together, these projects simulate a real enterprise QA environment — validating how data moves from the front end all the way through backend systems and pipelines.
 
