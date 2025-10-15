@@ -1,7 +1,7 @@
 ![QA + Data Projects by Nicole](https://raw.githubusercontent.com/shontelleQA/shontelleQA/main/gitcover.png)
 
 
-# Hey, I’m Nicole 👋  End-to-end tester focused on data integrity from UI clicks to ETL pipelines.
+## Hey, I’m Nicole 👋 — End-to-end tester focused on data integrity from UI clicks to ETL pipelines.
 
 QA Analyst • Documentation Nerd • Data QA-in-Progress • Builder of Test Like A Girl  
 📍 Based in Virginia | Building at [TestLikeAGirl.com](https://testlikeagirl.com)
@@ -24,12 +24,6 @@ testing what users see, what APIs do, and what databases keep.
 - Automating API and database validations using PyTest + Qase  
 - Designing an ETL QA pipeline with synthetic healthcare data and masking logic  
 - Documenting my full build process through [TestLikeAGirl.com](https://testlikeagirl.com)
-
-```mermaid
-flowchart LR
-A[UI & Functional Tests<br>(Selenium/PyTest)] --> B[API & DB Validation<br>(Postman + SQL)]
-B --> C[ETL & Data QA<br>(FastAPI + Pandas + CI/CD)]
-
 
 
 | Layer | Repository | Focus | Tools |
