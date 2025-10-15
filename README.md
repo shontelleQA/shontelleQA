@@ -1,8 +1,8 @@
-![QA + Data Projects by Nicole](https://raw.githubusercontent.com/shontelleQA/shontelleQA/main/git%20cover.png)
+![Test Like A Girl Banner](https://raw.githubusercontent.com/shontelleQA/shontelleQA/main/gitcover.png)
 
+# Hey, I’m Nicole 👋  > End-to-end tester focused on data integrity from UI clicks to ETL pipelines.
 
-# Hey, I’m Nicole 👋  
-QA Analyst • Documentation Nerd • Data-In-Progress  
+QA Analyst • Documentation Nerd • Data QA-in-Progress • Builder of Test Like A Girl  
 📍 Based in Virginia | Building at [TestLikeAGirl.com](https://testlikeagirl.com)
 
 ---
@@ -11,72 +11,79 @@ I break things on purpose. Then I write about it.
 
 I’m a career-changer turned QA Analyst with deep roots in healthcare ops and compliance. I test like a user *and* a detective — validating backend logic, uncovering edge cases, and documenting everything like someone’s audit depends on it (because sometimes, it does).  
 
-Currently blending QA testing with a growing focus on **data validation** and **Python automation** — one portfolio project at a time.
+Right now, I’m building a full QA-to-Data validation stack:
+testing what users see, what APIs do, and what databases keep.
 
 ---
 
-### 💼 What I’m Building + Refining
+## 🧩 My QA → Data Validation Stack
 
-- 🔍 Running QA cycles end-to-end — writing, executing, and improving test cases across real apps
-- 🧪 Dialing in API test strategies with Postman — chaining requests, validating edge cases, and working with auth tokens
-- 🧵 Expanding Selenium + Pytest coverage — creating modular test flows and experimenting with automation patterns
-- 📊 Validating backend logic with SQL — using joins, filters, and exploratory queries to catch data mismatches early
- - 📈 Exploring data analytics concepts through hands-on projects — using Python, spreadsheets, and dashboards to surface insights from messy data
-- ✍🏽 Turning all of it into teachable moments at [Test Like A Girl](https://testlikeagirl.com) — because documenting *how* I think is part of my process
+*(What I’m building & refining:)*  
+- Expanding a modular Selenium + PyTest framework for end-to-end coverage  
+- Automating API and database validations using PyTest + Qase  
+- Designing an ETL QA pipeline with synthetic healthcare data and masking logic  
+- Documenting my full build process through [TestLikeAGirl.com](https://testlikeagirl.com)
+
+```mermaid
+flowchart LR
+A[UI & Functional Tests<br>(Selenium/PyTest)] --> B[API & DB Validation<br>(Postman + SQL)]
+B --> C[ETL & Data QA<br>(FastAPI + Pandas + CI/CD)]
 
 
----
 
-### 📁 Featured Projects (see pinned repos!)
+| Layer | Repository | Focus | Tools |
+|-------|-------------|--------|-------|
+| **🧠 UI + Functional Automation** | [qa-systems-frontend-automation](https://github.com/shontelleQA/qa-systems-frontend-automation) | E-commerce UI automation framework validating functional workflows and checkout logic | Selenium · PyTest · Page Object Model |
+| **🔗 API + Database Validation** | [qa-systems-validation-suite](https://github.com/shontelleQA/qa-systems-validation-suite) | Integrated test suite combining manual, API, and SQL validation — bridging UI events and backend data | Postman · PyTest · SQL · TestRail |
+| **🧮 Data Pipeline + ETL QA** | [qa-data-validation-framework](https://github.com/shontelleQA/qa-data-validation-framework) *(in progress)* | Synthetic healthcare pipeline with ETL verification, masking, and CI/CD | FastAPI · SQLite · Pandas · GitHub Actions |
 
-- **OrangeHRM QA Cycle**  
-  Full manual QA flow on a live app — test plan, cases, bugs, and automation notes  
-- **GoRest API Testing**  
-  Postman + Python project testing public APIs with positive, negative, and auth scenarios  
-- **Form Submission SQL Tracker**  
-  Backend validation of form data with custom test matrix and data queries  
-- **Process Quality Simulation**  
-  Internal audits, SOPs, and defect trend analysis for healthcare workflows
-
----
-
-### 🛠️ Tools & Tech
-
-`Manual Testing` · `Postman` · `Jira` · `Zephyr` · `Selenium (Python)`  
-`Pytest` · `SQL` · `Git/GitHub` · `TestRail` · `BrowserStack` · `Snagit`  
+> Together, these projects simulate a real enterprise QA environment — validating how data moves from the front end all the way through backend systems and pipelines.
 
 ---
 
-### 🌱 Currently Learning
+## 🧠 What I’m Exploring
 
-- 📘 Finishing Google IT Automation & Google Data Analytics (Coursera)
-- 🧪 Deep-diving Selenium, Postman, and Pytest for automation
-- 📊 Exploring SQL + Tableau for data validation & dashboards
-- 🧵 Building the **Test Like A Girl** course — real projects, no fluff
+-- Building hybrid QA frameworks that connect UI → API → Data
+- Automating backend checks with Python + SQL
+- Designing CI/CD ETL QA pipelines
+- Documenting the process in public through [TestLikeAGirl.com](https://testlikeagirl.com)
 
 ---
 
-### ✨ Fun Facts
+## 🧰 Tools & Tech
+
+Manual Testing · Postman · Jira · Selenium (Python) · PyTest · SQL · Git/GitHub · Zephyr Scale · Qase · BrowserStack · Pandas · FastAPI · Docker · CI/CD
+
+---
+
+## ✍🏽 Learn With Me
+
+- 🖊️ **Blog:** [Test Like A Girl](https://testlikeagirl.com) — real QA case studies & walkthroughs  
+- 💬 **LinkedIn:** [Nicole Nealy](https://linkedin.com/in/nicole-nealy) — documentation, reflections, and pivot notes  
+
+---
+
+## 🪄 Coming Soon
+
+**✨ Version 2.0 of Test Like A Girl** — expanding into a platform for women pivoting into tech.  
+Free, practical learning paths across **QA**, **Data**, and **Tech Ops** — designed to help women use the problem-solving skills they already have.  
+
+- **Healthcare ETL Automation Framework**  
+- **Web Scraping + API Monitoring Demo**  
+- **Teach By Doing Course Series (FREE Community Edition)**   
+
+---
+
+### ✨ Fun Fact
 
 - 💚 I used to run a licensed daycare facility — now I break software with the same energy
 
-### 🗂 More Places
-
-- 📖 [testlikeagirl.com](https://testlikeagirl.com) – Walkthroughs, QA case studies, and real-world test examples  
-- 📎 [LinkedIn](https://linkedin.com/in/nicole-nealy) – Where I talk shop and share progress  
 
 
----
+## ✨ Motto
 
-### 👀 Coming Soon
+> I’m not trying to be “the best.” I’m trying to be real — and helpful.  
+> If you’re building, pivoting, or learning too… I’m right there with you.
 
-- 💻 Web scraping + browser automation with Python  
-- 📊 Exploratory data analysis + dashboard mockups  
-- 🧵 QA course materials (free, practical, real-world focused)  
-- 🔁 Version 2.0 of TLAG with career-path resources for women in tech  
 
----
-
-> ✨ I’m not trying to be “the best.” I’m trying to be *real* — and helpful.  
-> If you're building, pivoting, or learning too… I’m right there with you.
 
