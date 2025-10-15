@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-![Test Like A Girl Banner](https://raw.githubusercontent.com/shontelleQA/shontelleQA/main/gitcover.png)
-=======
 ![QA + Data Projects by Nicole](https://raw.githubusercontent.com/shontelleQA/shontelleQA/main/gitcover.png)
->>>>>>> 01bf3db48ad3a9bedec2bfd3152ee44d539e9b58
 
-# Hey, I’m Nicole 👋  > End-to-end tester focused on data integrity from UI clicks to ETL pipelines.
+
+# Hey, I’m Nicole 👋  
+<sub>End-to-end tester focused on data integrity from UI clicks to ETL pipelines.</sub>
 
 QA Analyst • Documentation Nerd • Data QA-in-Progress • Builder of Test Like A Girl  
 📍 Based in Virginia | Building at [TestLikeAGirl.com](https://testlikeagirl.com)
