@@ -18,6 +18,14 @@ testing what users see, what APIs do, and what databases keep.
 ---
 
 ## 🧩 My QA → Data Validation Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-blue" />
+  <img src="https://img.shields.io/badge/PyTest-Automation-green" />
+  <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-black" />
+  <img src="https://img.shields.io/badge/Domain-Healthcare_Data-orange" />
+  <img src="https://img.shields.io/badge/Status-In_Progress-yellow" />
+</p>
+
 
 *(What I’m building & refining:)*  
 - Expanding a modular Selenium + PyTest framework for end-to-end coverage  
