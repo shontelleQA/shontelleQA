@@ -44,6 +44,8 @@ Right now, I’m building a full QA-to-Data validation stack that connects front
 | **🔗 API + Database Validation** | **[qa-api-integration-suite](https://github.com/shontelleQA/qa-api-integration-suite)** | Integrated test suite combining manual, API, and SQL validation — bridging UI events and backend data | Postman · PyTest · SQL · TestRail |
 | **🧮 Data Pipeline + ETL QA** | **[qa-healthcare-data-validation](https://github.com/shontelleQA/qa-healthcare-data-validation)** | Synthetic healthcare pipeline with ETL verification, masking, and CI/CD | FastAPI · SQLite · Pandas · GitHub Actions |
 
+**Built for Roles Like:**  
+QA Automation Test Engineer • Quality Data Analyst • Data Validation Analyst • ETL QA Engineer • Analytics Engineer
 
 > Together, these projects simulate a real enterprise QA environment — validating how data moves from the front end all the way through backend systems and pipelines.
 
@@ -78,6 +80,8 @@ Right now, I’m building a full QA-to-Data validation stack that connects front
 | 🧾 Insurance Policy & Cost Optimization | *(coming soon)* | Financial analytics on premiums, payouts, and profitability trends | SQL · Python (Pandas) · Power BI |
 | 🧠 Healthcare Analytics Capstone | *(coming soon)* | End-to-end ETL + QA + BI pipeline combining data validation and executive dashboards | Python (FastAPI, SQLAlchemy) · Power BI · GitHub Actions |
 
+**Built for Roles Like:**  
+Data Analyst (Medical Economics) • Data Analyst • Healthcare Reporting Analyst • BI Analyst • Quality Data Analyst
 
 Together, these projects showcase the analytics layer of my QA story — transforming validated healthcare data into insights that improve accuracy, efficiency, and decision-making.  
   
