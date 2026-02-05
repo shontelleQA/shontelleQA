@@ -1,106 +1,123 @@
 ![QA + Data Projects by Nicole](https://raw.githubusercontent.com/shontelleQA/shontelleQA/main/gitcover.png)
 
 
-**Software QA Engineer → Data Analyst | Healthcare & Systems QA**
+**Healthcare Data Analyst | Claims Analytics & Data Quality**
 
-I’m Nicole, a QA Analyst and data storyteller with a background in healthcare operations and compliance.  
-I build frameworks, pipelines, and dashboards that make data more trustworthy — testing what users see, what APIs do, and what databases keep.  
+I analyze healthcare data with a quality-first mindset, specializing in claims analytics, denial patterns, and cost drivers.
+My background in healthcare operations and QA means I don't just surface insights — I validate the data behind them first.  
 
-QA Analyst • Documentation Nerd • Data Seeker • Builder of [Test Like A Girl](https://testlikeagirl.com)  
-📍 Based in Virginia | Writing, testing, and occasionally breaking things on purpose.  
+🔍 *Good analytics starts with good data.*
+
+📍 Based in Virginia | Healthcare-focused | Open to remote  
+📝 Writing & documenting at [Test Like A Girl](https://testlikeagirl.com) 
+
+---  
+
+I’m deepening my data analytics practice while leveraging a strong foundation in quality engineering and healthcare operations. 
+
+**What I'm building:**
+- Healthcare claims data quality analysis with SQL and Power BI
+- Data validation and integrity checking skills
+- Understanding of medical economics and denial patterns
+- Portfolio that connects data quality rigor with analytical insight
+
+QA isn’t my title — it’s the discipline that informs how I analyze data.
 
 ---
 
-My work sits at the intersection of **Quality Assurance** and **Data Analytics** where defect patterns become data stories, and validation turns into insight.  
-
-Right now, I’m building a full QA-to-Data validation stack that connects front-end behavior, backend APIs, and data pipelines.  
-
----
-
-## 🧩 My QA → Data Validation Stack
+## 📊 Data Analytics Projects
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.12-blue" />
+  <img src="https://img.shields.io/badge/SQL-Analytics-blueviolet" />
+  <img src="https://img.shields.io/badge/Power_BI-Dashboards-yellow" />
+  <img src="https://img.shields.io/badge/Python-Analytics-blue" />
+  <img src="https://img.shields.io/badge/Excel-Data_Cleaning-green" />
+  <img src="https://img.shields.io/badge/Domain-Healthcare-orange" />
+  <img src="https://img.shields.io/badge/Project-Test_Like_A_Girl-pink" />
+</p>
+
+
+*(What I'm building & refining:)*  
+- Auditing healthcare datasets for integrity, completeness, and anomalies  
+- Translating validation findings into KPIs, dashboards, and business narratives  
+- Using SQL and Python to analyze trends, denial patterns, and cost drivers  
+- Documenting case studies that connect data quality to actionable insights
+
+
+| Layer | Repository | Focus | Tools |
+|-------|-------------|--------|-------|
+| 🩺 **Healthcare Claims Quality Audit** | **[healthcare-claims-quality-audit](https://github.com/shontelleQA/healthcare-claims-quality-audit)** *(In Progress)* | Data quality audit with SQL profiling, reconciliation logic, integrity checks, and Power BI dashboard analyzing denial trends and data completeness | SQL · Power BI · Python · Excel |
+
+> This project demonstrates my ability to analyze healthcare data, validate data quality, and translate findings into business insights — combining analytical skills with data integrity rigor.
+
+*Additional healthcare analytics projects (Medical Cost Dashboard, Prior Auth Analysis) planned for Q1-Q3 2026*
+
+---
+
+
+## 🔍 Technical Foundation & Data Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-blue" />
   <img src="https://img.shields.io/badge/PyTest-Automation-green" />
   <img src="https://img.shields.io/badge/SQL-Validation-blueviolet" />
   <img src="https://img.shields.io/badge/API-Postman-orange" />
   <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-black" />
   <img src="https://img.shields.io/badge/IDE-PyCharm-darkgreen" />
-  <img src="https://img.shields.io/badge/Domain-Healthcare_Data-orange" />
-  <img src="https://img.shields.io/badge/Project-Test_Like_A_Girl-pink" />
 </p>
 
 
-*(What I’m building & refining:)*  
-- Expanding a modular Selenium + PyTest framework for end-to-end coverage  
-- Automating API and database validations using PyTest + Qase  
-- Designing an ETL QA pipeline with synthetic healthcare data and masking logic  
-- Documenting my full build process through [TestLikeAGirl.com](https://testlikeagirl.com)
+*(What I've built:)*  
+- Automating validation across UI, API, and database layers  
+- Building test frameworks using Python, PyTest, and SQL  
+- Working with CI/CD pipelines and GitHub Actions  
+- Demonstrating systematic testing and quality engineering principles
 
 
 | Layer | Repository | Focus | Tools |
 |-------|-------------|--------|-------|
-| **🧠 UI + Functional Automation** | **[qa-automation-framework-ecommerce](https://github.com/shontelleQA/qa-automation-framework-ecommerce)** | E-commerce UI automation framework validating functional workflows and checkout logic | Selenium · PyTest · Page Object Model |
-| **🔗 API + Database Validation** | **[qa-api-integration-suite](https://github.com/shontelleQA/qa-api-integration-suite)** | Integrated test suite combining manual, API, and SQL validation — bridging UI events and backend data | Postman · PyTest · SQL · TestRail |
-| **🧮 Data Pipeline + ETL QA** | **[qa-healthcare-data-validation](https://github.com/shontelleQA/qa-healthcare-data-validation)** | Synthetic healthcare pipeline with ETL verification, masking, and CI/CD | FastAPI · SQLite · Pandas · GitHub Actions |
-
-**Built for Roles Like:**  
-QA Automation Test Engineer • Quality Data Analyst • Data Validation Analyst • ETL QA Engineer • Analytics Engineer
-
-> Together, these projects simulate a real enterprise QA environment — validating how data moves from the front end all the way through backend systems and pipelines.
-
----
+| **🧠 UI Automation Framework** | **[qa-automation-framework-ecommerce](https://github.com/shontelleQA/qa-automation-framework-ecommerce)** | UI automation framework validating end-user workflows using Page Object Model design and checkout logic | Selenium · PyTest · Page Object Model · CI/CD |
+| **🔗 API & Database Validation** | **[qa-api-integration-suite](https://github.com/shontelleQA/qa-api-integration-suite)** | Integrated test suite combining manual API testing and SQL validation | Postman · PyTest · SQL · TestRail |
 
 
-## 📊 My Data Analytics & Insights Stack 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tools-SQL-blueviolet" />
-  <img src="https://img.shields.io/badge/Power_BI-Dashboard-yellow" />
-  <img src="https://img.shields.io/badge/Python-Analytics-blue" />
-  <img src="https://img.shields.io/badge/Excel-Data_Cleaning-green" />
-  <img src="https://img.shields.io/badge/Domain-Healthcare-orange" />
-  <img src="https://img.shields.io/badge/Status-In_Progress-yellow" />
-</p>
-
-
-*(What I’m building & refining:)*  
-- Auditing healthcare data to assess integrity and identify anomalies  
-- Translating QA validation results into actionable business KPIs and dashboards  
-- Leveraging SQL and Python for trend analysis, performance monitoring, and data storytelling  
-- Documenting case studies that connect quality assurance with analytical insight 
-
-
-| Layer | Repository | Focus | Tools |
-|-------|-------------|--------|--------|
-| 🩺 Data Quality & Trends in Healthcare Claims | **[data-healthcare-analytics-suite](https://github.com/shontelleQA/data-healthcare-analytics-suite)** | Data integrity audit and KPI dashboard for healthcare claims | SQL · Excel · Power Query · Power BI |
-| 🧬 Disease Spread & Vaccination Impact | *(coming soon)* | Epidemiological trend analysis exploring infection and vaccination data across regions | SQL · Python (Pandas, Matplotlib) · Tableau |
-| 💊 Patient Outcomes & Treatment Effectiveness | *(coming soon)* | Comparative analysis of treatment outcomes and facility performance | Python (Pandas, SciPy) · Power BI · SQL |
-| 🧮 Disease Prediction Model | *(coming soon)* | Predictive modeling of disease risk using logistic and random-forest methods | Python (scikit-learn, Pandas) · Power BI |
-| 🧾 Insurance Policy & Cost Optimization | *(coming soon)* | Financial analytics on premiums, payouts, and profitability trends | SQL · Python (Pandas) · Power BI |
-| 🧠 Healthcare Analytics Capstone | *(coming soon)* | End-to-end ETL + QA + BI pipeline combining data validation and executive dashboards | Python (FastAPI, SQLAlchemy) · Power BI · GitHub Actions |
-
-**Built for Roles Like:**  
-Data Analyst (Medical Economics) • Data Analyst • Healthcare Reporting Analyst • BI Analyst • Quality Data Analyst
-
-Together, these projects showcase the analytics layer of my QA story — transforming validated healthcare data into insights that improve accuracy, efficiency, and decision-making.  
+> These projects demonstrate my technical foundation in Python, SQL, automation, and data validation — skills that directly support data quality and analytics work.  
   
 
 ---
 
+## 🛠️ Skills I'm Building
+
+**Data Analysis:** SQL (intermediate) • Power BI (learning) • Python (Pandas) • Excel / Power Query  
+**Data Quality:** Data profiling • Reconciliation logic • Integrity validation • Root cause analysis  
+**Healthcare Domain:** Claims processing • Medical economics • Denial analysis • Utilization trends  
+**Technical Foundation:** Git/GitHub • Python • PyTest • API testing • Automation • CI/CD
+
+---
+**Target roles:**  
+Data Analyst (Medical Economics) • Quality Data Analyst • Healthcare Data Analyst
+Data Validation Analyst • QA Automation Engineer • ETL QA Engineer BI Analyst
+
+---
+
+## 📚 Learning Path
+
+- 🎓 Completing BSCS (Expected 2026)
+- 💡 Power BI (PL-300 certification path)
+- 🏥 Healthcare data standards and medical economics
+- ✍️ Documenting everything at [TestLikeAGirl.com](https://testlikeagirl.com)
 
 ## 🌐 Connect
 
 - 🧠 [TestLikeAGirl.com](https://testlikeagirl.com) – Blog documenting real QA & Data projects  
-- 💼 [LinkedIn](https://linkedin.com/in/shontellenealy) – Career, updates, and technical posts  
+- 💼 [LinkedIn](https://linkedin.com/in/nicole-nealy) – Career, updates, and technical posts  
 - 📊 [GitHub Projects](https://github.com/shontelleQA?tab=repositories) – Full project list  
 
 ---
 
 ### 🩶 About This Portfolio
 Everything here reflects a simple idea: **Quality creates clarity**.  
-QA is how we protect accuracy; analytics is how we tell its story.  
-Together, they build confidence in every decision made with data.
+QA protects accuracy. Analytics tells the story.  
+Together, they make data decisions defensible.
 
 
 
