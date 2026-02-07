@@ -39,18 +39,18 @@ QA isn’t my title — it’s the discipline that informs how I analyze data.
 
 *(What I'm building & refining:)*  
 - Auditing healthcare datasets for integrity, completeness, and anomalies  
-- Translating validation findings into KPIs, dashboards, and business narratives  
-- Using SQL and Python to analyze trends, denial patterns, and cost drivers  
+- Performing data profiling, reconciliation, and validation before analysis  
+- Translating validated findings into KPIs, dashboards, and business narratives  
 - Documenting case studies that connect data quality to actionable insights
 
 
 | Layer | Repository | Focus | Tools |
 |-------|-------------|--------|-------|
-| 🩺 **Healthcare Claims Quality Audit** | **[healthcare-claims-quality-audit](https://github.com/shontelleQA/healthcare-claims-quality-audit)** *(In Progress)* | Data quality audit with SQL profiling, reconciliation logic, integrity checks, and Power BI dashboard analyzing denial trends and data completeness | SQL · Power BI · Python · Excel |
+| 🩺 **Healthcare Data Quality & Claims Analytics** | **[data-healthcare-analytics-suite](https://github.com/shontelleQA/data-healthcare-analytics-suite)** *(In Progress)* | Healthcare data quality analysis and claims-style analytics, including SQL profiling, reconciliation logic, integrity checks, and Power BI dashboards focused on cost, utilization, and data completeness | SQL · Power BI · Python · Excel |
 
-> This project demonstrates my ability to analyze healthcare data, validate data quality, and translate findings into business insights — combining analytical skills with data integrity rigor.
+> This repository demonstrates my quality-first approach to healthcare data analytics. Work focuses on understanding source data structure, validating assumptions, identifying data limitations, and translating trusted findings into clear, defensible business insights.
 
-*Additional healthcare analytics projects (Medical Cost Dashboard, Prior Auth Analysis) planned for Q1-Q3 2026*
+*Additional healthcare analytics case studies (e.g., medical cost analysis, utilization trends, prior authorization patterns) will be added as the repository evolves.*
 
 ---
 
