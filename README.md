@@ -25,19 +25,18 @@ My background in healthcare operations and QA means I don’t just surface insig
 </p>
 
 
-Case studies exploring real payer-style challenges — **billing lag, claim denials, and cost optimization** — using reproducible SQL, Power BI, and Python analysis.
+Healthcare claims analytics focused on operational timeliness, revenue realization, and cost drivers. Built with reproducible SQL and Power BI workflows.
 
 | Project | Description | Tools |
 |----------|--------------|-------|
-| 🕒 **Claims Billing Delay & Cost Impact Analysis** | Analyzes billing lag, delay windows (0–365 days), and cost distribution across encounter types | SQL · Power BI |
-| 🚫 **Claims Denial Root-Cause Dashboard** | Analyzes denial patterns by reason, provider, and cost | SQL · Power BI |
+| 🕒 **Claims Billing Delay & Cost Impact Analysis** | Identifies billing lag patterns and quantifies revenue exposure tied to delayed claim submission | SQL · Power BI |
+| 🚫 **Claims Financial Leakage Analysis** | Analyzes outstanding balances, payment-to-charge ratios, adjustment patterns, and denial impact to identify revenue risk | SQL · Power BI |
 | 💸 **Cost & Utilization Optimization Study** | Benchmarks network efficiency and highlights spend drivers | SQL · Power BI · Python |
 
 
 ➡️ **[View the Healthcare Data Analytics Suite →](https://github.com/shontelleQA/data-healthcare-analytics-suite)**
 
 > This suite reflects a quality-driven analytics process — understanding data structure, validating assumptions, and translating trusted findings into defensible business insights.  
-> Additional healthcare analytics case studies (e.g., medical cost analysis, utilization trends, cost impact of delayed billing) will be added as the repository evolves.
 
 
 ---
