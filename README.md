@@ -29,7 +29,7 @@ Healthcare claims analytics focused on operational timeliness, revenue realizati
 
 | Project | Description | Tools |
 |----------|--------------|-------|
-| 🕒 **Claims Billing Delay & Cost Impact Analysis** | Identifies billing lag patterns and quantifies revenue exposure tied to delayed claim submission | SQL · Power BI |
+| [🕒 Claims Billing Delay & Cost Impact Analysis](https://github.com/shontelleQA/data-healthcare-analytics-suite/tree/main/billing-cycle-delay-cost-impact) | Identifies billing lag patterns and quantifies revenue exposure tied to delayed claim submission | SQL · Power BI |
 | 🚫 **Claims Financial Leakage Analysis** | Analyzes outstanding balances, payment-to-charge ratios, adjustment patterns, and denial impact to identify revenue risk | SQL · Power BI |
 | 💸 **Cost & Utilization Optimization Study** | Benchmarks network efficiency and highlights spend drivers | SQL · Power BI · Python |
 
