@@ -17,6 +17,7 @@ My background in healthcare operations and QA means I don’t just surface insig
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-Analytics-blueviolet" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-Dashboards-yellow" />
   <img src="https://img.shields.io/badge/Python-Analytics-blue" />
   <img src="https://img.shields.io/badge/Excel-Data_Cleaning-green" />
